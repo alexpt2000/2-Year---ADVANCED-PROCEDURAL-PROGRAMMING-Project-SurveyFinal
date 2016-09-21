@@ -1,0 +1,2530 @@
+=============================================================================================
+                                      Survey - Records
+=============================================================================================
+
+         PPS Name            Surname         Address              Email                Gender
+=============================================================================================
+n.   1  1200 DEBRA           ADAMS           Dublin               test@gmail.com       Female              
+Age........: 18-20 yrs
+Income.....: Less than €20,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.   2  1201 SCOTT           AGUILAR         Cork                 google@gmail.com     Male                
+Age........: 18-20 yrs
+Income.....: Less than €20,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.   3  1202 CARMEN          ALEXANDER       Limerick             ireland@google.ie    Female              
+Age........: 18-20 yrs
+Income.....: Less than €20,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.   4  1203 AMY             ALLEN           Waterford            test@gmail.com       Female              
+Age........: 18-20 yrs
+Income.....: Less than €20,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.   5  1204 NORMAN          ALVARADO        Kilkenny             google@gmail.com     Male                
+Age........: 18-20 yrs
+Income.....: No Income
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.   6  1205 ESTHER          ALVAREZ         Derry                ireland@google.ie    Female              
+Age........: 18-20 yrs
+Income.....: No Income
+Exercise...: Never
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.   7  1206 NANCY           ANDERSON        Belfast              test@gmail.com       Female              
+Age........: 18-20 yrs
+Income.....: No Income
+Exercise...: Never
+Alcohol....: More than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.   8  1207 MATTHEW         ANDREWS         Galway               google@gmail.com     Male                
+Age........: 18-20 yrs
+Income.....: Less than €60,000
+Exercise...: Never
+Alcohol....: More than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.   9  1208 KEVIN           ARMSTRONG       Armagh               ireland@google.ie    Male                
+Age........: 18-20 yrs
+Income.....: Less than €60,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  10  1209 DAVID           ARNOLD          Newry                test@gmail.com       Male                
+Age........: 18-20 yrs
+Income.....: Less than €60,000
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  11  1210 SAMUEL          AUSTIN          Lisburn              google@gmail.com     Male                
+Age........: 20-30 yrs
+Income.....: Less than €60,000
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  12  1211 JANICE          BAILEY          Dublin               ireland@google.ie    Female              
+Age........: 20-30 yrs
+Income.....: Less than €80,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  13  1212 MARTHA          BAKER           Cork                 test@gmail.com       Female              
+Age........: 20-30 yrs
+Income.....: Less than €80,000
+Exercise...: Less than three times per week
+Alcohol....: More than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.  14  1213 JOHNNY          BANKS           Limerick             google@gmail.com     Male                
+Age........: 20-30 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.  15  1214 LEROY           BARKER          Waterford            ireland@google.ie    Male                
+Age........: 20-30 yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: None
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.  16  1215 EMILY           BARNES          Kilkenny             test@gmail.com       Female              
+Age........: 20-30 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  17  1216 TRAVIS          BARNETT         Derry                google@gmail.com     Male                
+Age........: 20-30 yrs
+Income.....: Less than €100,000
+Exercise...: Never
+Alcohol....: More than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  18  1217 LEONARD         BARRETT         Belfast              ireland@google.ie    Male                
+Age........: 30-50 yrs
+Income.....: Less than €100,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  19  1218 CURTIS          BATES           Galway               test@gmail.com       Male                
+Age........: 30-50 yrs
+Income.....: Less than €100,000
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  20  1219 ALLEN           BECK            Armagh               google@gmail.com     Male                
+Age........: 30-50 yrs
+Income.....: No Income
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  21  1220 EDWIN           BECKER          Newry                ireland@google.ie    Male                
+Age........: 30-50 yrs
+Income.....: No Income
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  22  1221 KELLY           BELL            Lisburn              test@gmail.com       Female              
+Age........: 30-50 yrs
+Income.....: No Income
+Exercise...: Never
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  23  1222 LORI            BENNETT         Dublin               google@gmail.com     Female              
+Age........: 30-50 yrs
+Income.....: Less than €40,000
+Exercise...: Never
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  24  1223 JASON           BERRY           Cork                 ireland@google.ie    Male                
+Age........: 30-50 yrs
+Income.....: Less than €40,000
+Exercise...: More than five times per week
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  25  1224 TERRY           BISHOP          Limerick             test@gmail.com       Male                
+Age........: 50-65 yrs
+Income.....: Less than €40,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.  26  1225 ERIN            BLACK           Waterford            google@gmail.com     Female              
+Age........: 50-65 yrs
+Income.....: Less than €40,000
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.  27  1226 PHILLIP         BOWMAN          Kilkenny             ireland@google.ie    Male                
+Age........: 50-65 yrs
+Income.....: Less than €20,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.  28  1227 JOANN           BOYD            Derry                test@gmail.com       Female              
+Age........: 50-65 yrs
+Income.....: Less than €20,000
+Exercise...: Less than five times per week
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  29  1228 EDWARD          BRADLEY         Belfast              google@gmail.com     Male                
+Age........: 50-65 yrs
+Income.....: Less than €20,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  30  1229 CLARENCE        BREWER          Galway               ireland@google.ie    Male                
+Age........: 50-65 yrs
+Income.....: Less than €80,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  31  1230 JANE            BROOKS          Armagh               test@gmail.com       Female              
+Age........: 50-65 yrs
+Income.....: Less than €80,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.  32  1231 BARBARA         BROWN           Newry                google@gmail.com     Female              
+Age........: 50-65 yrs
+Income.....: Less than €80,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  33  1232 SYLVIA          BRYANT          Lisburn              ireland@google.ie    Female              
+Age........: 65 +  yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.  34  1233 ARTHUR          BURKE           Dublin               test@gmail.com       Male                
+Age........: 65 +  yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  35  1234 DEBBIE          BURNS           Cork                 google@gmail.com     Female              
+Age........: 65 +  yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  36  1235 STEVE           BURTON          Limerick             ireland@google.ie    Male                
+Age........: 65 +  yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  37  1236 LILLIAN         BUTLER          Waterford            test@gmail.com       Female              
+Age........: 65 +  yrs
+Income.....: Greater than €100,000
+Exercise...: Less than five times per week
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  38  1237 HERBERT         BYRD            Kilkenny             google@gmail.com     Male                
+Age........: 65 +  yrs
+Income.....: Greater than €100,000
+Exercise...: Less than five times per week
+Alcohol....: None
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.  39  1238 JEFF            CALDWELL        Derry                ireland@google.ie    Male                
+Age........: 65 +  yrs
+Income.....: Greater than €100,000
+Exercise...: Less than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.  40  1239 CHRISTINE       CAMPBELL        Belfast              test@gmail.com       Female              
+Age........: 65 +  yrs
+Income.....: Greater than €100,000
+Exercise...: Less than three times per week
+Alcohol....: More than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.  41  1240 HAROLD          CARLSON         Galway               google@gmail.com     Male                
+Age........: 18-20 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than three times per week
+Alcohol....: More than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  42  1241 JEFFREY         CARPENTER       Armagh               ireland@google.ie    Male                
+Age........: 18-20 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  43  1242 GERALD          CARR            Newry                test@gmail.com       Male                
+Age........: 18-20 yrs
+Income.....: No Income
+Exercise...: Never
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  44  1243 BRIAN           CARROLL         Lisburn              google@gmail.com     Male                
+Age........: 18-20 yrs
+Income.....: Less than €100,000
+Exercise...: Never
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  45  1244 CATHERINE       CARTER          Dublin               ireland@google.ie    Female              
+Age........: 18-20 yrs
+Income.....: Greater than €100,000
+Exercise...: Never
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  46  1245 JUANITA         CASTILLO        Cork                 test@gmail.com       Female              
+Age........: 18-20 yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  47  1246 PAUL            CASTRO          Limerick             google@gmail.com     Male                
+Age........: 18-20 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  48  1247 MELVIN          CHAMBERS        Waterford            ireland@google.ie    Male                
+Age........: 18-20 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  49  1248 GREGORY         CHAPMAN         Kilkenny             test@gmail.com       Male                
+Age........: 30-50 yrs
+Income.....: Greater than €100,000
+Exercise...: Never
+Alcohol....: More than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.  50  1249 KIM             CHAVEZ          Derry                google@gmail.com     Female              
+Age........: 30-50 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than three times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  51  1250 HOWARD          CHEN            Belfast              ireland@google.ie    Male                
+Age........: 30-50 yrs
+Income.....: Greater than €100,000
+Exercise...: Never
+Alcohol....: Less than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  52  1251 DEBORAH         CLARK           Galway               test@gmail.com       Female              
+Age........: 30-50 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  53  1252 RANDALL         COHEN           Armagh               google@gmail.com     Male                
+Age........: 30-50 yrs
+Income.....: Less than €60,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  54  1253 VICTORIA        COLE            Newry                ireland@google.ie    Female              
+Age........: 20-30 yrs
+Income.....: Less than €60,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.  55  1254 CRYSTAL         COLEMAN         Lisburn              test@gmail.com       Female              
+Age........: 20-30 yrs
+Income.....: Less than €60,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.  56  1255 JULIE           COLLINS         Dublin               google@gmail.com     Female              
+Age........: 20-30 yrs
+Income.....: Less than €60,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  57  1256 JEFFERY         CONTRERAS       Cork                 ireland@google.ie    Male                
+Age........: 20-30 yrs
+Income.....: Less than €60,000
+Exercise...: Never
+Alcohol....: More than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  58  1257 MILDRED         COOK            Limerick             test@gmail.com       Female              
+Age........: 50-65 yrs
+Income.....: Less than €60,000
+Exercise...: Never
+Alcohol....: More than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  59  1258 JUDITH          COOPER          Waterford            google@gmail.com     Female              
+Age........: 50-65 yrs
+Income.....: Less than €60,000
+Exercise...: Never
+Alcohol....: More than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  60  1259 THERESA         COX             Kilkenny             ireland@google.ie    Female              
+Age........: 50-65 yrs
+Income.....: Less than €60,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  61  1260 KYLE            CRAIG           Derry                test@gmail.com       Male                
+Age........: 50-65 yrs
+Income.....: Less than €40,000
+Exercise...: More than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  62  1261 JAMIE           CRAWFORD        Belfast              google@gmail.com     Female              
+Age........: 50-65 yrs
+Income.....: Less than €40,000
+Exercise...: More than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  63  1262 KATHRYN         CRUZ            Galway               ireland@google.ie    Female              
+Age........: 50-65 yrs
+Income.....: Less than €40,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  64  1263 KENNETH         CUNNINGHAM      Armagh               test@gmail.com       Male                
+Age........: 50-65 yrs
+Income.....: Less than €40,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  65  1264 JIMMY           CURTIS          Newry                google@gmail.com     Male                
+Age........: 50-65 yrs
+Income.....: Less than €40,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  66  1265 STACY           DANIELS         Lisburn              ireland@google.ie    Female              
+Age........: 50-65 yrs
+Income.....: Less than €40,000
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  67  1266 TODD            DAVIDSON        Dublin               test@gmail.com       Male                
+Age........: 50-65 yrs
+Income.....: Less than €20,000
+Exercise...: Less than five times per week
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  68  1267 MARIA           DAVIS           Cork                 google@gmail.com     Female              
+Age........: 65 +  yrs
+Income.....: Less than €20,000
+Exercise...: Never
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  69  1268 CRAIG           DAY             Limerick             ireland@google.ie    Male                
+Age........: 65 +  yrs
+Income.....: Less than €20,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  70  1269 ADAM            DEAN            Waterford            test@gmail.com       Male                
+Age........: 65 +  yrs
+Income.....: No Income
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  71  1270 DANNY           DELGADO         Kilkenny             google@gmail.com     Male                
+Age........: 65 +  yrs
+Income.....: No Income
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  72  1271 BEVERLY         DIAZ            Derry                ireland@google.ie    Female              
+Age........: 65 +  yrs
+Income.....: No Income
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  73  1272 BERTHA          DIXON           Belfast              test@gmail.com       Female              
+Age........: 65 +  yrs
+Income.....: Less than €80,000
+Exercise...: Never
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  74  1273 MIKE            DOUGLAS         Galway               google@gmail.com     Male                
+Age........: 18-20 yrs
+Income.....: Less than €80,000
+Exercise...: Never
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  75  1274 ANTHONY         DUNCAN          Armagh               ireland@google.ie    Male                
+Age........: 18-20 yrs
+Income.....: Less than €80,000
+Exercise...: More than five times per week
+Alcohol....: None
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.  76  1275 MICHAEL         DUNN            Newry                test@gmail.com       Male                
+Age........: 18-20 yrs
+Income.....: Less than €80,000
+Exercise...: More than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.  77  1276 HEATHER         EDWARDS         Lisburn              google@gmail.com     Female              
+Age........: 18-20 yrs
+Income.....: Less than €100,000
+Exercise...: More than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.  78  1277 GEORGE          ELLIOTT         Dublin               ireland@google.ie    Male                
+Age........: 18-20 yrs
+Income.....: Less than €100,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  79  1278 JOSEPHINE       ELLIS           Cork                 test@gmail.com       Female              
+Age........: 18-20 yrs
+Income.....: Less than €100,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  80  1279 GLENN           ESTRADA         Limerick             google@gmail.com     Male                
+Age........: 18-20 yrs
+Income.....: Less than €100,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  81  1280 ANN             EVANS           Waterford            ireland@google.ie    Female              
+Age........: 18-20 yrs
+Income.....: Less than €100,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.  82  1281 AUDREY          FERGUSON        Kilkenny             test@gmail.com       Female              
+Age........: 18-20 yrs
+Income.....: Less than €20,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  83  1282 MARION          FERNANDEZ       Derry                google@gmail.com     Female              
+Age........: 18-20 yrs
+Income.....: Less than €20,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.  84  1283 BOBBY           FIELDS          Belfast              ireland@google.ie    Male                
+Age........: 20-30 yrs
+Income.....: Less than €20,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  85  1284 ROBIN           FISHER          Galway               test@gmail.com       Female              
+Age........: 20-30 yrs
+Income.....: Less than €20,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  86  1285 EDDIE           FLEMING         Armagh               google@gmail.com     Male                
+Age........: 20-30 yrs
+Income.....: No Income
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  87  1286 DORIS           FLORES          Newry                ireland@google.ie    Female              
+Age........: 20-30 yrs
+Income.....: No Income
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  88  1287 SHEILA          FORD            Lisburn              test@gmail.com       Female              
+Age........: 20-30 yrs
+Income.....: No Income
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  89  1288 WANDA           FOSTER          Dublin               google@gmail.com     Female              
+Age........: 20-30 yrs
+Income.....: Less than €60,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.  90  1289 ERNEST          FOWLER          Cork                 ireland@google.ie    Male                
+Age........: 20-30 yrs
+Income.....: Less than €60,000
+Exercise...: Less than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.  91  1290 SALLY           FOX             Limerick             test@gmail.com       Female              
+Age........: 30-50 yrs
+Income.....: Less than €60,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n.  92  1291 JONATHAN        FRANKLIN        Waterford            google@gmail.com     Male                
+Age........: 30-50 yrs
+Income.....: Less than €60,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  93  1292 JOEL            FRAZIER         Kilkenny             ireland@google.ie    Male                
+Age........: 30-50 yrs
+Income.....: Less than €80,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  94  1293 EVA             FREEMAN         Derry                test@gmail.com       Female              
+Age........: 30-50 yrs
+Income.....: Less than €80,000
+Exercise...: Never
+Alcohol....: More than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  95  1294 LOUIS           FULLER          Belfast              google@gmail.com     Male                
+Age........: 30-50 yrs
+Income.....: Greater than €100,000
+Exercise...: Never
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  96  1295 SUSAN           GARCIA          Galway               ireland@google.ie    Female              
+Age........: 30-50 yrs
+Income.....: Greater than €100,000
+Exercise...: Never
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  97  1296 JAMES           GARDNER         Armagh               test@gmail.com       Male                
+Age........: 30-50 yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n.  98  1297 WAYNE           GARRETT         Newry                google@gmail.com     Male                
+Age........: 50-65 yrs
+Income.....: Less than €100,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n.  99  1298 JERRY           GARZA           Lisburn              ireland@google.ie    Male                
+Age........: 50-65 yrs
+Income.....: Less than €100,000
+Exercise...: Less than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 100  1299 HENRY           GEORGE          Dublin               test@gmail.com       Male                
+Age........: 50-65 yrs
+Income.....: Less than €100,000
+Exercise...: Never
+Alcohol....: More than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 101  1300 SHERRY          GIBSON          Cork                 google@gmail.com     Female              
+Age........: 50-65 yrs
+Income.....: No Income
+Exercise...: Less than three times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 102  1301 RALPH           GILBERT         Limerick             ireland@google.ie    Male                
+Age........: 50-65 yrs
+Income.....: No Income
+Exercise...: Never
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 103  1302 NICOLE          GOMEZ           Waterford            test@gmail.com       Female              
+Age........: 50-65 yrs
+Income.....: No Income
+Exercise...: Less than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 104  1303 TIFFANY         GONZALES        Kilkenny             google@gmail.com     Female              
+Age........: 50-65 yrs
+Income.....: Less than €40,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 105  1304 SARAH           GONZALEZ        Derry                ireland@google.ie    Female              
+Age........: 50-65 yrs
+Income.....: Less than €40,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 106  1305 MEGAN           GORDON          Belfast              test@gmail.com       Female              
+Age........: 65 +  yrs
+Income.....: Less than €40,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 107  1306 TRACY           GRAHAM          Galway               google@gmail.com     Female              
+Age........: 65 +  yrs
+Income.....: Less than €40,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 108  1307 CHRISTOPHER     GRANT           Armagh               ireland@google.ie    Male                
+Age........: 65 +  yrs
+Income.....: Less than €20,000
+Exercise...: Never
+Alcohol....: More than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 109  1308 RACHEL          GRAY            Newry                test@gmail.com       Female              
+Age........: 65 +  yrs
+Income.....: Less than €20,000
+Exercise...: Never
+Alcohol....: More than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 110  1309 PAMELA          GREEN           Lisburn              google@gmail.com     Female              
+Age........: 65 +  yrs
+Income.....: Less than €20,000
+Exercise...: Never
+Alcohol....: More than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 111  1310 CARL            GREENE          Dublin               ireland@google.ie    Male                
+Age........: 65 +  yrs
+Income.....: Less than €80,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 112  1311 FREDERICK       GREGORY         Cork                 test@gmail.com       Male                
+Age........: 65 +  yrs
+Income.....: Less than €80,000
+Exercise...: More than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 113  1312 GRACE           GRIFFIN         Limerick             google@gmail.com     Female              
+Age........: 65 +  yrs
+Income.....: Less than €80,000
+Exercise...: More than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 114  1313 MANUEL          GUERRERO        Waterford            ireland@google.ie    Male                
+Age........: 18-20 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 115  1314 DIANA           GUTIERREZ       Kilkenny             test@gmail.com       Female              
+Age........: 18-20 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 116  1315 RYAN            GUZMAN          Derry                google@gmail.com     Male                
+Age........: 18-20 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 117  1316 MELISSA         HALL            Belfast              ireland@google.ie    Female              
+Age........: 18-20 yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 118  1317 FLORENCE        HAMILTON        Galway               test@gmail.com       Female              
+Age........: 18-20 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than five times per week
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 119  1318 DANIEL          HANSEN          Armagh               google@gmail.com     Male                
+Age........: 18-20 yrs
+Income.....: Greater than €100,000
+Exercise...: Never
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 120  1319 HARRY           HANSON          Newry                ireland@google.ie    Male                
+Age........: 18-20 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 121  1320 DOUGLAS         HARPER          Lisburn              test@gmail.com       Male                
+Age........: 18-20 yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 122  1321 KIMBERLY        HARRIS          Lisburn              google@gmail.com     Female              
+Age........: 30-50 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 123  1322 MARJORIE        HARRISON        Dublin               ireland@google.ie    Female              
+Age........: 30-50 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 124  1323 DONALD          HART            Cork                 test@gmail.com       Male                
+Age........: 30-50 yrs
+Income.....: No Income
+Exercise...: Never
+Alcohol....: None
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 125  1324 BENJAMIN        HARVEY          Limerick             google@gmail.com     Male                
+Age........: 30-50 yrs
+Income.....: Less than €100,000
+Exercise...: Never
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 126  1325 THOMAS          HAWKINS         Waterford            ireland@google.ie    Male                
+Age........: 30-50 yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 127  1326 EDITH           HAYES           Kilkenny             test@gmail.com       Female              
+Age........: 20-30 yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 128  1327 PEGGY           HENDERSON       Derry                google@gmail.com     Female              
+Age........: 20-30 yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 129  1328 APRIL           HENRY           Belfast              ireland@google.ie    Female              
+Age........: 20-30 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 130  1329 HELEN           HERNANDEZ       Galway               test@gmail.com       Female              
+Age........: 20-30 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 131  1330 ANNETTE         HERRERA         Armagh               google@gmail.com     Female              
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 132  1331 GAIL            HICKS           Newry                ireland@google.ie    Female              
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 133  1332 STEPHANIE       HILL            Lisburn              test@gmail.com       Female              
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 134  1333 MARK            HOFFMAN         Dublin               google@gmail.com     Male                
+Age........: 50-65 yrs
+Income.....: Less than €60,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 135  1334 PHILIP          HOLLAND         Cork                 ireland@google.ie    Male                
+Age........: 50-65 yrs
+Income.....: Less than €60,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 136  1335 GERALDINE       HOLMES          Limerick             test@gmail.com       Female              
+Age........: 50-65 yrs
+Income.....: Less than €60,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 137  1336 NATHAN          HOPKINS         Waterford            google@gmail.com     Male                
+Age........: 50-65 yrs
+Income.....: Less than €60,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 138  1337 CHRISTINA       HOWARD          Kilkenny             ireland@google.ie    Female              
+Age........: 50-65 yrs
+Income.....: Less than €60,000
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 139  1338 BRANDON         HOWELL          Derry                test@gmail.com       Male                
+Age........: 50-65 yrs
+Income.....: Less than €60,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 140  1339 RONALD          HUDSON          Belfast              google@gmail.com     Male                
+Age........: 50-65 yrs
+Income.....: Less than €60,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 141  1340 LOUISE          HUGHES          Galway               ireland@google.ie    Female              
+Age........: 65 +  yrs
+Income.....: Less than €60,000
+Exercise...: Less than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 142  1341 DARLENE         HUNT            Armagh               test@gmail.com       Female              
+Age........: 65 +  yrs
+Income.....: Less than €40,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 143  1342 SUZANNE         HUNTER          Newry                google@gmail.com     Female              
+Age........: 65 +  yrs
+Income.....: Less than €40,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 144  1343 CAROL           JACKSON         Lisburn              ireland@google.ie    Female              
+Age........: 65 +  yrs
+Income.....: Less than €40,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 145  1344 JUAN            JACOBS          Dublin               test@gmail.com       Male                
+Age........: 65 +  yrs
+Income.....: Less than €40,000
+Exercise...: Never
+Alcohol....: More than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 146  1345 MARILYN         JAMES           Cork                 google@gmail.com     Female              
+Age........: 65 +  yrs
+Income.....: Less than €40,000
+Exercise...: Never
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 147  1346 PAULA           JENKINS         Limerick             ireland@google.ie    Female              
+Age........: 18-20 yrs
+Income.....: Less than €40,000
+Exercise...: Never
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 148  1347 BARRY           JENNINGS        Waterford            test@gmail.com       Male                
+Age........: 18-20 yrs
+Income.....: Less than €20,000
+Exercise...: More than five times per week
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 149  1348 LAWRENCE        JENSEN          Kilkenny             google@gmail.com     Male                
+Age........: 18-20 yrs
+Income.....: Less than €20,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 150  1349 JOANNE          JIMENEZ         Derry                ireland@google.ie    Female              
+Age........: 18-20 yrs
+Income.....: Less than €20,000
+Exercise...: Less than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 151  1350 PATRICIA        JOHNSON         Belfast              test@gmail.com       Female              
+Age........: 18-20 yrs
+Income.....: No Income
+Exercise...: Never
+Alcohol....: More than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 152  1351 GARY            JOHNSTON        Galway               google@gmail.com     Male                
+Age........: 18-20 yrs
+Income.....: No Income
+Exercise...: Less than three times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 153  1352 ELIZABETH       JONES           Armagh               ireland@google.ie    Female              
+Age........: 18-20 yrs
+Income.....: No Income
+Exercise...: Never
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 154  1353 DAWN            JORDAN          Newry                test@gmail.com       Female              
+Age........: 18-20 yrs
+Income.....: Less than €80,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 155  1354 DALE            KELLER          Lisburn              google@gmail.com     Male                
+Age........: 18-20 yrs
+Income.....: Less than €80,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 156  1355 ROBERT          KELLEY          Dublin               ireland@google.ie    Male                
+Age........: 18-20 yrs
+Income.....: Less than €80,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 157  1356 JUDY            KELLY           Cork                 test@gmail.com       Female              
+Age........: 20-30 yrs
+Income.....: Less than €80,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 158  1357 CHARLOTTE       KENNEDY         Limerick             google@gmail.com     Female              
+Age........: 20-30 yrs
+Income.....: Less than €100,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 159  1358 EDNA            KIM             Waterford            ireland@google.ie    Female              
+Age........: 20-30 yrs
+Income.....: Less than €100,000
+Exercise...: Never
+Alcohol....: More than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 160  1359 VIRGINIA        KING            Kilkenny             test@gmail.com       Female              
+Age........: 20-30 yrs
+Income.....: Less than €100,000
+Exercise...: Never
+Alcohol....: More than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 161  1360 STEVEN          KNIGHT          Derry                google@gmail.com     Male                
+Age........: 20-30 yrs
+Income.....: Less than €100,000
+Exercise...: Never
+Alcohol....: More than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 162  1361 JACOB           LAMBERT         Belfast              ireland@google.ie    Male                
+Age........: 20-30 yrs
+Income.....: Less than €100,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 163  1362 JOSE            LANE            Galway               test@gmail.com       Male                
+Age........: 20-30 yrs
+Income.....: Less than €20,000
+Exercise...: More than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 164  1363 PETER           LARSON          Armagh               google@gmail.com     Male                
+Age........: 30-50 yrs
+Income.....: Less than €20,000
+Exercise...: More than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 165  1364 JOSHUA          LAWRENCE        Newry                ireland@google.ie    Male                
+Age........: 30-50 yrs
+Income.....: Less than €20,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 166  1365 ALBERT          LAWSON          Lisburn              test@gmail.com       Male                
+Age........: 30-50 yrs
+Income.....: Less than €20,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 167  1366 LAURA           LEE             Dublin               google@gmail.com     Female              
+Age........: 30-50 yrs
+Income.....: No Income
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 168  1367 FRANCIS         LEONARD         Cork                 ireland@google.ie    Male                
+Age........: 30-50 yrs
+Income.....: No Income
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 169  1368 JESSICA         LEWIS           Limerick             test@gmail.com       Female              
+Age........: 30-50 yrs
+Income.....: No Income
+Exercise...: Less than five times per week
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 170  1369 MARTIN          LITTLE          Waterford            google@gmail.com     Male                
+Age........: 30-50 yrs
+Income.....: Less than €60,000
+Exercise...: Never
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 171  1370 JACQUELINE      LONG            Kilkenny             ireland@google.ie    Female              
+Age........: 50-65 yrs
+Income.....: Less than €60,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 172  1371 MICHELLE        LOPEZ           Derry                test@gmail.com       Female              
+Age........: 50-65 yrs
+Income.....: Less than €60,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 173  1372 BRADLEY         LOWE            Belfast              google@gmail.com     Male                
+Age........: 50-65 yrs
+Income.....: Less than €60,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 174  1373 SEAN            LUCAS           Galway               ireland@google.ie    Male                
+Age........: 50-65 yrs
+Income.....: Less than €80,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 175  1374 JUSTIN          LYNCH           Armagh               test@gmail.com       Male                
+Age........: 50-65 yrs
+Income.....: Less than €80,000
+Exercise...: Never
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 176  1375 DON             MALDONADO       Newry                google@gmail.com     Male                
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: Never
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 177  1376 ETHEL           MARSHALL        Lisburn              ireland@google.ie    Female              
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 178  1377 DONNA           MARTIN          Dublin               test@gmail.com       Female              
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 179  1378 LISA            MARTINEZ        Cork                 google@gmail.com     Female              
+Age........: 65 +  yrs
+Income.....: Less than €100,000
+Exercise...: More than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 180  1379 VALERIE         MASON           Limerick             ireland@google.ie    Female              
+Age........: 65 +  yrs
+Income.....: Less than €100,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 181  1380 RAYMOND         MATTHEWS        Waterford            test@gmail.com       Male                
+Age........: 65 +  yrs
+Income.....: Less than €100,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 182  1381 JESSE           MAY             Kilkenny             google@gmail.com     Male                
+Age........: 65 +  yrs
+Income.....: No Income
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 183  1382 AARON           MCCOY           Derry                ireland@google.ie    Male                
+Age........: 65 +  yrs
+Income.....: No Income
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 184  1383 BERNARD         MCDANIEL        Belfast              test@gmail.com       Male                
+Age........: 65 +  yrs
+Income.....: No Income
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 185  1384 ELAINE          MCDONALD        Galway               google@gmail.com     Female              
+Age........: 65 +  yrs
+Income.....: Less than €40,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 186  1385 JUNE            MEDINA          Armagh               ireland@google.ie    Female              
+Age........: 65 +  yrs
+Income.....: Less than €40,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 187  1386 WILLIE          MENDEZ          Newry                test@gmail.com       Male                
+Age........: 18-20 yrs
+Income.....: Less than €40,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 188  1387 EMMA            MENDOZA         Lisburn              google@gmail.com     Female              
+Age........: 18-20 yrs
+Income.....: Less than €40,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 189  1388 CATHY           MEYER           Dublin               ireland@google.ie    Female              
+Age........: 18-20 yrs
+Income.....: Less than €20,000
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 190  1389 JENNIFER        MILLER          Cork                 test@gmail.com       Female              
+Age........: 18-20 yrs
+Income.....: Less than €20,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 191  1390 LORRAINE        MILLS           Limerick             google@gmail.com     Female              
+Age........: 18-20 yrs
+Income.....: Less than €20,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 192  1391 MARIE           MITCHELL        Waterford            ireland@google.ie    Female              
+Age........: 18-20 yrs
+Income.....: Less than €80,000
+Exercise...: Less than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 193  1392 ROY             MONTGOMERY      Kilkenny             test@gmail.com       Male                
+Age........: 18-20 yrs
+Income.....: Less than €80,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 194  1393 SANDRA          MOORE           Derry                google@gmail.com     Female              
+Age........: 18-20 yrs
+Income.....: Less than €80,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 195  1394 RUBY            MORALES         Belfast              ireland@google.ie    Female              
+Age........: 30-50 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 196  1395 BEATRICE        MORENO          Galway               test@gmail.com       Female              
+Age........: 30-50 yrs
+Income.....: Greater than €100,000
+Exercise...: Never
+Alcohol....: More than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 197  1396 JOAN            MORGAN          Armagh               google@gmail.com     Female              
+Age........: 30-50 yrs
+Income.....: Greater than €100,000
+Exercise...: Never
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 198  1397 GLORIA          MORRIS          Newry                ireland@google.ie    Female              
+Age........: 30-50 yrs
+Income.....: Greater than €100,000
+Exercise...: Never
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 199  1398 ROGER           MORRISON        Lisburn              test@gmail.com       Male                
+Age........: 30-50 yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 200  1399 JOE             MUNOZ           Dublin               google@gmail.com     Male                
+Age........: 20-30 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 201  1400 JEAN            MURPHY          Cork                 ireland@google.ie    Female              
+Age........: 20-30 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 202  1401 SHANNON         MURRAY          Limerick             test@gmail.com       Female              
+Age........: 20-30 yrs
+Income.....: Greater than €100,000
+Exercise...: Never
+Alcohol....: More than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 203  1402 ANNE            MYERS           Waterford            google@gmail.com     Female              
+Age........: 20-30 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than three times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 204  1403 AMANDA          NELSON          Kilkenny             ireland@google.ie    Female              
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: Never
+Alcohol....: More than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 205  1404 SHAWN           NEWMAN          Derry                test@gmail.com       Male                
+Age........: 50-65 yrs
+Income.....: No Income
+Exercise...: Less than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 206  1405 EVELYN          NGUYEN          Belfast              google@gmail.com     Female              
+Age........: 50-65 yrs
+Income.....: Less than €100,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 207  1406 YVONNE          NICHOLS         Galway               ireland@google.ie    Female              
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 208  1407 FRANCISCO       NORRIS          Armagh               test@gmail.com       Male                
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 209  1408 ALFRED          NUNEZ           Newry                google@gmail.com     Male                
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 210  1409 JACK            OBRIEN          Lisburn              ireland@google.ie    Male                
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: Never
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 211  1410 BRUCE           OLIVER          Dublin               test@gmail.com       Male                
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: Never
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 212  1411 ANITA           OLSON           Cork                 google@gmail.com     Female              
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: Never
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 213  1412 MARVIN          ORTEGA          Limerick             ireland@google.ie    Male                
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 214  1413 NORMA           ORTIZ           Waterford            test@gmail.com       Female              
+Age........: 65 +  yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 215  1414 ELLEN           OWENS           Kilkenny             google@gmail.com     Female              
+Age........: 65 +  yrs
+Income.....: Less than €60,000
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 216  1415 VERONICA        PALMER          Derry                ireland@google.ie    Female              
+Age........: 65 +  yrs
+Income.....: Less than €60,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 217  1416 ALICE           PARKER          Belfast              test@gmail.com       Female              
+Age........: 65 +  yrs
+Income.....: Less than €60,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 218  1417 ALEXANDER       PARKS           Galway               google@gmail.com     Male                
+Age........: 65 +  yrs
+Income.....: Less than €60,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 219  1418 BERNICE         PATEL           Armagh               ireland@google.ie    Female              
+Age........: 65 +  yrs
+Income.....: Less than €60,000
+Exercise...: More than five times per week
+Alcohol....: None
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 220  1419 RITA            PATTERSON       Newry                test@gmail.com       Female              
+Age........: 18-20 yrs
+Income.....: Less than €60,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 221  1420 JOHN            PAYNE           Lisburn              google@gmail.com     Male                
+Age........: 18-20 yrs
+Income.....: Less than €60,000
+Exercise...: Never
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 222  1421 ANTONIO         PEARSON         Lisburn              ireland@google.ie    Male                
+Age........: 18-20 yrs
+Income.....: Less than €60,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 223  1422 TONY            PENA            Dublin               test@gmail.com       Male                
+Age........: 18-20 yrs
+Income.....: Less than €40,000
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 224  1423 ANGELA          PEREZ           Cork                 google@gmail.com     Female              
+Age........: 18-20 yrs
+Income.....: Less than €40,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 225  1424 FRANK           PERKINS         Limerick             ireland@google.ie    Male                
+Age........: 18-20 yrs
+Income.....: Less than €40,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 226  1425 ANNIE           PERRY           Waterford            test@gmail.com       Female              
+Age........: 18-20 yrs
+Income.....: Less than €40,000
+Exercise...: Never
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 227  1426 JOSEPH          PETERS          Kilkenny             google@gmail.com     Male                
+Age........: 18-20 yrs
+Income.....: Less than €40,000
+Exercise...: Never
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 228  1427 ASHLEY          PETERSON        Derry                ireland@google.ie    Female              
+Age........: 18-20 yrs
+Income.....: Less than €40,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 229  1428 FRANCES         PHILLIPS        Belfast              test@gmail.com       Female              
+Age........: 18-20 yrs
+Income.....: Less than €20,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 230  1429 WILLIAM         PIERCE          Galway               google@gmail.com     Male                
+Age........: 20-30 yrs
+Income.....: Less than €20,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 231  1430 ELEANOR         PORTER          Armagh               ireland@google.ie    Female              
+Age........: 20-30 yrs
+Income.....: Less than €20,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 232  1431 LOIS            POWELL          Newry                test@gmail.com       Female              
+Age........: 20-30 yrs
+Income.....: No Income
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 233  1432 LEE             POWERS          Lisburn              google@gmail.com     Male                
+Age........: 20-30 yrs
+Income.....: No Income
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 234  1433 SARA            PRICE           Dublin               ireland@google.ie    Female              
+Age........: 20-30 yrs
+Income.....: No Income
+Exercise...: Less than three times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 235  1434 CAROLYN         RAMIREZ         Cork                 test@gmail.com       Female              
+Age........: 20-30 yrs
+Income.....: Less than €80,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 236  1435 ROSA            RAMOS           Limerick             google@gmail.com     Female              
+Age........: 20-30 yrs
+Income.....: Less than €80,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 237  1436 TIMOTHY         RAY             Waterford            ireland@google.ie    Male                
+Age........: 30-50 yrs
+Income.....: Less than €80,000
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 238  1437 ROSE            REED            Kilkenny             test@gmail.com       Female              
+Age........: 30-50 yrs
+Income.....: Less than €80,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 239  1438 RUSSELL         REID            Derry                google@gmail.com     Male                
+Age........: 30-50 yrs
+Income.....: Less than €100,000
+Exercise...: More than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 240  1439 ANDREA          REYES           Belfast              ireland@google.ie    Female              
+Age........: 30-50 yrs
+Income.....: Less than €100,000
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 241  1440 CONNIE          REYNOLDS        Galway               test@gmail.com       Female              
+Age........: 30-50 yrs
+Income.....: Less than €100,000
+Exercise...: Less than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 242  1441 JESUS           RHODES          Armagh               google@gmail.com     Male                
+Age........: 30-50 yrs
+Income.....: Less than €100,000
+Exercise...: Less than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 243  1442 ERICA           RICE            Newry                ireland@google.ie    Female              
+Age........: 30-50 yrs
+Income.....: Less than €100,000
+Exercise...: Less than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 244  1443 STEPHEN         RICHARDS        Lisburn              test@gmail.com       Male                
+Age........: 50-65 yrs
+Income.....: Less than €20,000
+Exercise...: Less than three times per week
+Alcohol....: More than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 245  1444 DENISE          RICHARDSON      Dublin               google@gmail.com     Female              
+Age........: 50-65 yrs
+Income.....: Less than €20,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 246  1445 LARRY           RILEY           Cork                 ireland@google.ie    Male                
+Age........: 50-65 yrs
+Income.....: Less than €20,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 247  1446 LUIS            RIOS            Limerick             test@gmail.com       Male                
+Age........: 50-65 yrs
+Income.....: Less than €20,000
+Exercise...: Never
+Alcohol....: Less than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 248  1447 CHERYL          RIVERA          Waterford            google@gmail.com     Female              
+Age........: 50-65 yrs
+Income.....: No Income
+Exercise...: Never
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 249  1448 JANET           ROBERTS         Kilkenny             ireland@google.ie    Female              
+Age........: 50-65 yrs
+Income.....: No Income
+Exercise...: Never
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 250  1449 JILL            ROBERTSON       Derry                test@gmail.com       Female              
+Age........: 50-65 yrs
+Income.....: No Income
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 251  1450 SHIRLEY         ROBINSON        Belfast              google@gmail.com     Female              
+Age........: 50-65 yrs
+Income.....: Less than €60,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 252  1451 MARGARET        RODRIGUEZ       Galway               ireland@google.ie    Female              
+Age........: 65 +  yrs
+Income.....: Less than €60,000
+Exercise...: Less than five times per week
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 253  1452 KATHERINE       ROGERS          Armagh               test@gmail.com       Female              
+Age........: 65 +  yrs
+Income.....: Less than €60,000
+Exercise...: Never
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 254  1453 MICHELE         ROMERO          Newry                google@gmail.com     Female              
+Age........: 65 +  yrs
+Income.....: Less than €60,000
+Exercise...: Less than three times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 255  1454 REGINA          ROSE            Lisburn              ireland@google.ie    Female              
+Age........: 65 +  yrs
+Income.....: Less than €80,000
+Exercise...: Never
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 256  1455 JULIA           ROSS            Dublin               test@gmail.com       Female              
+Age........: 65 +  yrs
+Income.....: Less than €80,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 257  1456 CARRIE          RUIZ            Cork                 google@gmail.com     Female              
+Age........: 65 +  yrs
+Income.....: Greater than €100,000
+Exercise...: Less than five times per week
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 258  1457 PHYLLIS         RUSSELL         Limerick             ireland@google.ie    Female              
+Age........: 65 +  yrs
+Income.....: Greater than €100,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 259  1458 SAMANTHA        RYAN            Waterford            test@gmail.com       Female              
+Age........: 65 +  yrs
+Income.....: Greater than €100,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 260  1459 KEITH           SALAZAR         Kilkenny             google@gmail.com     Male                
+Age........: 18-20 yrs
+Income.....: Less than €100,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 261  1460 ANNA            SANCHEZ         Derry                ireland@google.ie    Female              
+Age........: 18-20 yrs
+Income.....: Less than €100,000
+Exercise...: Never
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 262  1461 BONNIE          SANDERS         Belfast              test@gmail.com       Female              
+Age........: 18-20 yrs
+Income.....: Less than €100,000
+Exercise...: Never
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 263  1462 STANLEY         SANDOVAL        Galway               google@gmail.com     Male                
+Age........: 18-20 yrs
+Income.....: No Income
+Exercise...: Never
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 264  1463 CHAD            SANTIAGO        Armagh               ireland@google.ie    Male                
+Age........: 18-20 yrs
+Income.....: No Income
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 265  1464 EARL            SANTOS          Newry                test@gmail.com       Male                
+Age........: 18-20 yrs
+Income.....: No Income
+Exercise...: More than five times per week
+Alcohol....: None
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 266  1465 DOLORES         SCHMIDT         Lisburn              google@gmail.com     Female              
+Age........: 18-20 yrs
+Income.....: Less than €40,000
+Exercise...: More than five times per week
+Alcohol....: None
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 267  1466 ALAN            SCHNEIDER       Dublin               ireland@google.ie    Male                
+Age........: 18-20 yrs
+Income.....: Less than €40,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 268  1467 EUGENE          SCHULTZ         Cork                 test@gmail.com       Male                
+Age........: 30-50 yrs
+Income.....: Less than €40,000
+Exercise...: Less than three times per week
+Alcohol....: More than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 269  1468 KATHLEEN        SCOTT           Limerick             google@gmail.com     Female              
+Age........: 30-50 yrs
+Income.....: Less than €40,000
+Exercise...: Less than three times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 270  1469 DANIELLE        SHAW            Waterford            ireland@google.ie    Female              
+Age........: 30-50 yrs
+Income.....: Less than €20,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 271  1470 RAY             SHELTON         Kilkenny             test@gmail.com       Male                
+Age........: 30-50 yrs
+Income.....: Less than €20,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 272  1471 ERIC            SILVA           Derry                google@gmail.com     Male                
+Age........: 30-50 yrs
+Income.....: Less than €20,000
+Exercise...: Never
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 273  1472 GLADYS          SIMMONS         Belfast              ireland@google.ie    Female              
+Age........: 20-30 yrs
+Income.....: Less than €80,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 274  1473 LUCILLE         SIMPSON         Galway               test@gmail.com       Female              
+Age........: 20-30 yrs
+Income.....: Less than €80,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 275  1474 BILLY           SIMS            Armagh               google@gmail.com     Male                
+Age........: 20-30 yrs
+Income.....: Less than €80,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 276  1475 MARY            SMITH           Newry                ireland@google.ie    Female              
+Age........: 20-30 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 277  1476 CLARA           SNYDER          Lisburn              test@gmail.com       Female              
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: Never
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 278  1477 JEREMY          SOTO            Dublin               google@gmail.com     Male                
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: Never
+Alcohol....: More than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 279  1478 CHARLES         SPENCER         Cork                 ireland@google.ie    Male                
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 280  1479 RODNEY          STANLEY         Limerick             test@gmail.com       Male                
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 281  1480 ANA             STEPHENS        Waterford            google@gmail.com     Female              
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 282  1481 THELMA          STEVENS         Kilkenny             ireland@google.ie    Female              
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 283  1482 TERESA          STEWART         Derry                test@gmail.com       Female              
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 284  1483 LAUREN          STONE           Belfast              google@gmail.com     Female              
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 285  1484 TINA            SULLIVAN        Galway               ireland@google.ie    Female              
+Age........: 50-65 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 286  1485 TROY            SUTTON          Armagh               test@gmail.com       Male                
+Age........: 50-65 yrs
+Income.....: No Income
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 287  1486 KAREN           TAYLOR          Newry                google@gmail.com     Female              
+Age........: 65 +  yrs
+Income.....: Less than €100,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 288  1487 BETTY           THOMAS          Lisburn              ireland@google.ie    Female              
+Age........: 65 +  yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 289  1488 RUTH            THOMPSON        Dublin               test@gmail.com       Female              
+Age........: 65 +  yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 290  1489 DIANE           TORRES          Cork                 google@gmail.com     Female              
+Age........: 65 +  yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 291  1490 RICHARD         TRAN            Limerick             ireland@google.ie    Male                
+Age........: 65 +  yrs
+Income.....: Greater than €100,000
+Exercise...: More than five times per week
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 292  1491 AMBER           TUCKER          Waterford            test@gmail.com       Female              
+Age........: 65 +  yrs
+Income.....: Greater than €100,000
+Exercise...: Less than five times per week
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 293  1492 JOYCE           TURNER          Kilkenny             google@gmail.com     Female              
+Age........: 18-20 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than five times per week
+Alcohol....: None
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 294  1493 BRYAN           VALDEZ          Derry                ireland@google.ie    Male                
+Age........: 18-20 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 295  1494 DENNIS          VARGAS          Belfast              test@gmail.com       Male                
+Age........: 18-20 yrs
+Income.....: Greater than €100,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 296  1495 LESLIE          VASQUEZ         Galway               google@gmail.com     Female              
+Age........: 18-20 yrs
+Income.....: Less than €60,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 297  1496 RICKY           VEGA            Armagh               ireland@google.ie    Male                
+Age........: 18-20 yrs
+Income.....: Less than €60,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 298  1497 VINCENT         WADE            Newry                test@gmail.com       Male                
+Age........: 18-20 yrs
+Income.....: Less than €60,000
+Exercise...: Never
+Alcohol....: Less than 2 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 299  1498 ALICIA          WAGNER          Lisburn              google@gmail.com     Female              
+Age........: 18-20 yrs
+Income.....: Less than €60,000
+Exercise...: Never
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 300  1499 CYNTHIA         WALKER          Dublin               ireland@google.ie    Female              
+Age........: 18-20 yrs
+Income.....: Less than €60,000
+Exercise...: Never
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 301  1500 CINDY           WALLACE         Cork                 test@gmail.com       Female              
+Age........: 18-20 yrs
+Income.....: Less than €60,000
+Exercise...: More than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 302  1501 VICTOR          WALSH           Limerick             google@gmail.com     Male                
+Age........: 18-20 yrs
+Income.....: Less than €60,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 303  1502 CARLOS          WALTERS         Waterford            ireland@google.ie    Male                
+Age........: 20-30 yrs
+Income.....: Less than €60,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 304  1503 KATHY           WARD            Kilkenny             test@gmail.com       Female              
+Age........: 20-30 yrs
+Income.....: Less than €40,000
+Exercise...: Never
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 305  1504 LYNN            WARREN          Derry                google@gmail.com     Female              
+Age........: 20-30 yrs
+Income.....: Less than €40,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 306  1505 HAZEL           WASHINGTON      Belfast              ireland@google.ie    Female              
+Age........: 20-30 yrs
+Income.....: Less than €40,000
+Exercise...: Never
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 307  1506 WALTER          WATKINS         Galway               test@gmail.com       Male                
+Age........: 20-30 yrs
+Income.....: Less than €40,000
+Exercise...: Less than five times per week
+Alcohol....: None
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 308  1507 IRENE           WATSON          Armagh               google@gmail.com     Female              
+Age........: 20-30 yrs
+Income.....: Less than €40,000
+Exercise...: Less than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 309  1508 MARIO           WATTS           Newry                ireland@google.ie    Male                
+Age........: 20-30 yrs
+Income.....: Less than €40,000
+Exercise...: Less than five times per week
+Alcohol....: More than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 310  1509 DANA            WEAVER          Lisburn              test@gmail.com       Female              
+Age........: 30-50 yrs
+Income.....: Less than €20,000
+Exercise...: Less than three times per week
+Alcohol....: More than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 311  1510 RHONDA          WEBB            Dublin               google@gmail.com     Female              
+Age........: 30-50 yrs
+Income.....: Less than €20,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 312  1511 FRED            WEBER           Cork                 ireland@google.ie    Male                
+Age........: 30-50 yrs
+Income.....: Less than €20,000
+Exercise...: Never
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 313  1512 RANDY           WELCH           Limerick             test@gmail.com       Male                
+Age........: 30-50 yrs
+Income.....: No Income
+Exercise...: Never
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 314  1513 MONICA          WELLS           Waterford            google@gmail.com     Female              
+Age........: 30-50 yrs
+Income.....: No Income
+Exercise...: Never
+Alcohol....: More than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 315  1514 WENDY           WEST            Kilkenny             ireland@google.ie    Female              
+Age........: 30-50 yrs
+Income.....: No Income
+Exercise...: More than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 316  1515 PATRICK         WHEELER         Derry                test@gmail.com       Male                
+Age........: 30-50 yrs
+Income.....: Less than €80,000
+Exercise...: More than five times per week
+Alcohol....: None
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 317  1516 SHARON          WHITE           Belfast              google@gmail.com     Female              
+Age........: 50-65 yrs
+Income.....: Less than €80,000
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 318  1517 LINDA           WILLIAMS        Galway               ireland@google.ie    Female              
+Age........: 50-65 yrs
+Income.....: Less than €80,000
+Exercise...: Less than three times per week
+Alcohol....: More than 4 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 319  1518 NICHOLAS        WILLIAMSON      Armagh               test@gmail.com       Male                
+Age........: 50-65 yrs
+Income.....: Less than €80,000
+Exercise...: Less than three times per week
+Alcohol....: Less than 4 units
+Cigarettes.: More than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 320  1519 ANDREW          WILLIS          Newry                google@gmail.com     Male                
+Age........: 50-65 yrs
+Income.....: Less than €100,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 321  1520 DOROTHY         WILSON          Lisburn              ireland@google.ie    Female              
+Age........: 50-65 yrs
+Income.....: Less than €100,000
+Exercise...: More than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+n. 322  1521 CHRIS           WONG            Lisburn              test@gmail.com       Male                
+Age........: 50-65 yrs
+Income.....: Less than €100,000
+Exercise...: Less than five times per week
+Alcohol....: Less than 2 units
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 323  1522 TAMMY           WOOD            Lisburn              google@gmail.com     Female              
+Age........: 50-65 yrs
+Income.....: Less than €100,000
+Exercise...: Never
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 20 cigarettes
+----------------------------------------------------------------------------------------------
+n. 324  1523 PAULINE         WOODS           Lisburn              ireland@google.ie    Female              
+Age........: 50-65 yrs
+Income.....: Less than €100,000
+Exercise...: Less than three times per week
+Alcohol....: None
+Cigarettes.: None
+----------------------------------------------------------------------------------------------
+n. 325  1524 REBECCA         WRIGHT          Lisburn              test@gmail.com       Female              
+Age........: 65 +  yrs
+Income.....: Less than €20,000
+Exercise...: More than five times per week
+Alcohol....: Less than 4 units
+Cigarettes.: Less than 40 cigarettes
+----------------------------------------------------------------------------------------------
+
+=============================================================================================
+                                      Survey - Statistics
+=============================================================================================
+------------------------------------------------------------------
+ Total 242 people who smoke
+------------------------------------------------------------------
+ Total  24 % -  59 people - 18-20 yrs
+ Total  15 % -  38 people - 20-30 yrs
+ Total  18 % -  44 people - 30-50 yrs
+ Total  24 % -  59 people - 50-65 yrs
+ Total  17 % -  42 people - 65 +  yrs
+---------------------------------------------------
+ Total  14 % -  34 income - No Income 
+ Total  11 % -  29 income - Less than €20,000 
+ Total  12 % -  31 income - Less than €40,000 
+ Total  14 % -  34 income - Less than €60,000 
+ Total  11 % -  27 income - Less than €80,000 
+ Total  10 % -  26 income - Less than €100,000 
+ Total  25 % -  61 income - Greater than €100,000 
+---------------------------------------------------
+ Total  45 % - 110 gender - Male 
+ Total  54 % - 132 gender - Female 
+
+------------------------------------------------------------------
+ Total 101 people who smoke less than 20 cigarettes per week
+------------------------------------------------------------------
+ Total  22 % -  23 people - 18-20 yrs
+ Total  15 % -  16 people - 20-30 yrs
+ Total  21 % -  22 people - 30-50 yrs
+ Total  22 % -  23 people - 50-65 yrs
+ Total  16 % -  17 people - 65 +  yrs
+---------------------------------------------------
+ Total  17 % -  18 income - No Income 
+ Total   5 % -   6 income - Less than €20,000 
+ Total  16 % -  17 income - Less than €40,000 
+ Total  10 % -  11 income - Less than €60,000 
+ Total   9 % -  10 income - Less than €80,000 
+ Total  10 % -  11 income - Less than €100,000 
+ Total  27 % -  28 income - Greater than €100,000 
+---------------------------------------------------
+ Total  38 % -  39 gender - Male 
+ Total  61 % -  62 gender - Female 
+
+------------------------------------------------------------------
+ Total 64 people who smoke less than 40 cigarettes per week
+------------------------------------------------------------------
+ Total  28 % -  18 people - 18-20 yrs
+ Total  12 % -   8 people - 20-30 yrs
+ Total  14 % -   9 people - 30-50 yrs
+ Total  25 % -  16 people - 50-65 yrs
+ Total  20 % -  13 people - 65 +  yrs
+---------------------------------------------------
+ Total  10 % -   7 income - No Income 
+ Total  17 % -  11 income - Less than €20,000 
+ Total   7 % -   5 income - Less than €40,000 
+ Total  17 % -  11 income - Less than €60,000 
+ Total  12 % -   8 income - Less than €80,000 
+ Total  12 % -   8 income - Less than €100,000 
+ Total  21 % -  14 income - Greater than €100,000 
+---------------------------------------------------
+ Total  45 % -  29 gender - Male 
+ Total  54 % -  35 gender - Female 
+
+------------------------------------------------------------------
+ Total 77 people who smoke greater than 40 cigarettes per week
+------------------------------------------------------------------
+ Total  23 % -  18 people - 18-20 yrs
+ Total  18 % -  14 people - 20-30 yrs
+ Total  16 % -  13 people - 30-50 yrs
+ Total  25 % -  20 people - 50-65 yrs
+ Total  15 % -  12 people - 65 +  yrs
+---------------------------------------------------
+ Total  11 % -   9 income - No Income 
+ Total  15 % -  12 income - Less than €20,000 
+ Total  11 % -   9 income - Less than €40,000 
+ Total  15 % -  12 income - Less than €60,000 
+ Total  11 % -   9 income - Less than €80,000 
+ Total   9 % -   7 income - Less than €100,000 
+ Total  24 % -  19 income - Greater than €100,000 
+---------------------------------------------------
+ Total  54 % -  42 gender - Male 
+ Total  45 % -  35 gender - Female 
+
+====================================================================================
+
+------------------------------------------------------------------
+ Total 70 people who never exercise
+------------------------------------------------------------------
+ Total  28 % -  20 people - 18-20 yrs
+ Total  11 % -   8 people - 20-30 yrs
+ Total  24 % -  17 people - 30-50 yrs
+ Total  22 % -  16 people - 50-65 yrs
+ Total  12 % -   9 people - 65 +  yrs
+---------------------------------------------------
+ Total  18 % -  13 income - No Income 
+ Total  10 % -   7 income - Less than €20,000 
+ Total  11 % -   8 income - Less than €40,000 
+ Total  14 % -  10 income - Less than €60,000 
+ Total   7 % -   5 income - Less than €80,000 
+ Total  14 % -  10 income - Less than €100,000 
+ Total  24 % -  17 income - Greater than €100,000 
+---------------------------------------------------
+ Total  44 % -  31 gender - Male 
+ Total  55 % -  39 gender - Female 
+
+------------------------------------------------------------------
+ Total 96 people who exercise less than three times per week
+------------------------------------------------------------------
+ Total  25 % -  24 people - 18-20 yrs
+ Total  15 % -  15 people - 20-30 yrs
+ Total  15 % -  15 people - 30-50 yrs
+ Total  26 % -  25 people - 50-65 yrs
+ Total  17 % -  17 people - 65 +  yrs
+---------------------------------------------------
+ Total  10 % -  10 income - No Income 
+ Total  12 % -  12 income - Less than €20,000 
+ Total  14 % -  14 income - Less than €40,000 
+ Total  15 % -  15 income - Less than €60,000 
+ Total  15 % -  15 income - Less than €80,000 
+ Total   8 % -   8 income - Less than €100,000 
+ Total  22 % -  22 income - Greater than €100,000 
+---------------------------------------------------
+ Total  44 % -  43 gender - Male 
+ Total  55 % -  53 gender - Female 
+
+------------------------------------------------------------------
+ Total 76 people who exercise less than five times per week
+------------------------------------------------------------------
+ Total  25 % -  19 people - 18-20 yrs
+ Total  21 % -  16 people - 20-30 yrs
+ Total  11 % -   9 people - 30-50 yrs
+ Total  25 % -  19 people - 50-65 yrs
+ Total  17 % -  13 people - 65 +  yrs
+---------------------------------------------------
+ Total  11 % -   9 income - No Income 
+ Total  15 % -  12 income - Less than €20,000 
+ Total   7 % -   6 income - Less than €40,000 
+ Total  14 % -  11 income - Less than €60,000 
+ Total   7 % -   6 income - Less than €80,000 
+ Total  14 % -  11 income - Less than €100,000 
+ Total  27 % -  21 income - Greater than €100,000 
+---------------------------------------------------
+ Total  40 % -  31 gender - Male 
+ Total  59 % -  45 gender - Female 
+
+------------------------------------------------------------------
+ Total 83 people who exercise more than five times per week
+------------------------------------------------------------------
+ Total  22 % -  19 people - 18-20 yrs
+ Total  14 % -  12 people - 20-30 yrs
+ Total  16 % -  14 people - 30-50 yrs
+ Total  24 % -  20 people - 50-65 yrs
+ Total  21 % -  18 people - 65 +  yrs
+---------------------------------------------------
+ Total   9 % -   8 income - No Income 
+ Total  12 % -  10 income - Less than €20,000 
+ Total  14 % -  12 income - Less than €40,000 
+ Total  14 % -  12 income - Less than €60,000 
+ Total  12 % -  10 income - Less than €80,000 
+ Total   8 % -   7 income - Less than €100,000 
+ Total  28 % -  24 income - Greater than €100,000 
+---------------------------------------------------
+ Total  48 % -  40 gender - Male 
+ Total  51 % -  43 gender - Female 
+
+====================================================================================
+
+------------------------------------------------------------------
+ Total 75 people who do not consume alcohol
+------------------------------------------------------------------
+ Total  32 % -  24 people - 18-20 yrs
+ Total   8 % -   6 people - 20-30 yrs
+ Total  14 % -  11 people - 30-50 yrs
+ Total  21 % -  16 people - 50-65 yrs
+ Total  24 % -  18 people - 65 +  yrs
+---------------------------------------------------
+ Total  10 % -   8 income - No Income 
+ Total  12 % -   9 income - Less than €20,000 
+ Total  16 % -  12 income - Less than €40,000 
+ Total  14 % -  11 income - Less than €60,000 
+ Total   9 % -   7 income - Less than €80,000 
+ Total   5 % -   4 income - Less than €100,000 
+ Total  32 % -  24 income - Greater than €100,000 
+---------------------------------------------------
+ Total  48 % -  36 gender - Male 
+ Total  52 % -  39 gender - Female 
+
+------------------------------------------------------------------
+ Total 100 people who consume less than 2 units of alcohol per week
+------------------------------------------------------------------
+ Total  24 % -  24 people - 18-20 yrs
+ Total  19 % -  19 people - 20-30 yrs
+ Total  19 % -  19 people - 30-50 yrs
+ Total  23 % -  23 people - 50-65 yrs
+ Total  15 % -  15 people - 65 +  yrs
+---------------------------------------------------
+ Total  17 % -  17 income - No Income 
+ Total  12 % -  12 income - Less than €20,000 
+ Total  12 % -  12 income - Less than €40,000 
+ Total  14 % -  14 income - Less than €60,000 
+ Total   9 % -   9 income - Less than €80,000 
+ Total  10 % -  10 income - Less than €100,000 
+ Total  26 % -  26 income - Greater than €100,000 
+---------------------------------------------------
+ Total  47 % -  47 gender - Male 
+ Total  53 % -  53 gender - Female 
+
+------------------------------------------------------------------
+ Total 72 people who consume less than 4 units of alcohol per week
+------------------------------------------------------------------
+ Total  26 % -  19 people - 18-20 yrs
+ Total   9 % -   7 people - 20-30 yrs
+ Total  16 % -  12 people - 30-50 yrs
+ Total  30 % -  22 people - 50-65 yrs
+ Total  16 % -  12 people - 65 +  yrs
+---------------------------------------------------
+ Total   9 % -   7 income - No Income 
+ Total  12 % -   9 income - Less than €20,000 
+ Total   8 % -   6 income - Less than €40,000 
+ Total  13 % -  10 income - Less than €60,000 
+ Total  18 % -  13 income - Less than €80,000 
+ Total  16 % -  12 income - Less than €100,000 
+ Total  20 % -  15 income - Greater than €100,000 
+---------------------------------------------------
+ Total  41 % -  30 gender - Male 
+ Total  58 % -  42 gender - Female 
+
+------------------------------------------------------------------
+ Total 78 people who consume more than 4 units of alcohol per week
+------------------------------------------------------------------
+ Total  19 % -  15 people - 18-20 yrs
+ Total  24 % -  19 people - 20-30 yrs
+ Total  16 % -  13 people - 30-50 yrs
+ Total  24 % -  19 people - 50-65 yrs
+ Total  15 % -  12 people - 65 +  yrs
+---------------------------------------------------
+ Total  10 % -   8 income - No Income 
+ Total  14 % -  11 income - Less than €20,000 
+ Total  12 % -  10 income - Less than €40,000 
+ Total  16 % -  13 income - Less than €60,000 
+ Total   8 % -   7 income - Less than €80,000 
+ Total  12 % -  10 income - Less than €100,000 
+ Total  24 % -  19 income - Greater than €100,000 
+---------------------------------------------------
+ Total  41 % -  32 gender - Male 
+ Total  58 % -  46 gender - Female 
+
+====================================================================================
